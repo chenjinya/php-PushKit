@@ -34,5 +34,7 @@ PushKit 有自己的token，也不要和device token 混淆
 ## Reference resources
 
 https://stackoverflow.com/questions/27245808/implement-pushkit-and-test-in-development-behavior
+
 https://www.jianshu.com/p/afc8de658931
+
 http://blog.csdn.net/heyufei/article/details/53616961?utm_source=itdadao&utm_medium=referral#%E6%B5%8B%E8%AF%95push
