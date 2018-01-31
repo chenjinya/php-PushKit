@@ -33,6 +33,8 @@ PushKit 有自己的token，也不要和device token 混淆
 
 ## Reference resources
 
+https://oopsr.github.io/2016/06/20/voip/
+
 https://stackoverflow.com/questions/27245808/implement-pushkit-and-test-in-development-behavior
 
 https://www.jianshu.com/p/afc8de658931
